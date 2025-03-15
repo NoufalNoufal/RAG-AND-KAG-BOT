@@ -1,0 +1,251 @@
+{
+  "graph_id": "8b8651dc-d49c-4bca-9f41-cb9b13c3e29f",
+  "name": "student_marks",
+  "description": null,
+  "nodes": [
+    {
+      "id": "S01",
+      "name": "S01",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_1",
+      "name": "Student_1",
+      "label": "Entity"
+    },
+    {
+      "id": "S02",
+      "name": "S02",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_2",
+      "name": "Student_2",
+      "label": "Entity"
+    },
+    {
+      "id": "S03",
+      "name": "S03",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_3",
+      "name": "Student_3",
+      "label": "Entity"
+    },
+    {
+      "id": "S04",
+      "name": "S04",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_4",
+      "name": "Student_4",
+      "label": "Entity"
+    },
+    {
+      "id": "S05",
+      "name": "S05",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_5",
+      "name": "Student_5",
+      "label": "Entity"
+    },
+    {
+      "id": "S06",
+      "name": "S06",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_6",
+      "name": "Student_6",
+      "label": "Entity"
+    },
+    {
+      "id": "S07",
+      "name": "S07",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_7",
+      "name": "Student_7",
+      "label": "Entity"
+    },
+    {
+      "id": "S08",
+      "name": "S08",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_8",
+      "name": "Student_8",
+      "label": "Entity"
+    },
+    {
+      "id": "S09",
+      "name": "S09",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_9",
+      "name": "Student_9",
+      "label": "Entity"
+    },
+    {
+      "id": "S10",
+      "name": "S10",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_10",
+      "name": "Student_10",
+      "label": "Entity"
+    },
+    {
+      "id": "S11",
+      "name": "S11",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_11",
+      "name": "Student_11",
+      "label": "Entity"
+    },
+    {
+      "id": "S12",
+      "name": "S12",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_12",
+      "name": "Student_12",
+      "label": "Entity"
+    },
+    {
+      "id": "S13",
+      "name": "S13",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_13",
+      "name": "Student_13",
+      "label": "Entity"
+    },
+    {
+      "id": "S14",
+      "name": "S14",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_14",
+      "name": "Student_14",
+      "label": "Entity"
+    },
+    {
+      "id": "S15",
+      "name": "S15",
+      "label": "Entity"
+    },
+    {
+      "id": "Student_15",
+      "name": "Student_15",
+      "label": "Entity"
+    }
+  ],
+  "edges": [
+    {
+      "id": "af0388a0-b1c4-410f-a370-7250b3b5974c",
+      "source": "S01",
+      "target": "Student_1",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "46ce60a7-167e-402b-baec-75e5cbbf149d",
+      "source": "S02",
+      "target": "Student_2",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "8398c26f-8e8a-4e6a-a274-db1d6659c56b",
+      "source": "S03",
+      "target": "Student_3",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "e61814ac-bfe2-4ccd-b7f2-94be04d37ab3",
+      "source": "S04",
+      "target": "Student_4",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "106a153b-1b4d-47be-8076-015c1ab906b9",
+      "source": "S05",
+      "target": "Student_5",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "1414d357-d5b2-4f38-8d73-cf0210a263b1",
+      "source": "S06",
+      "target": "Student_6",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "e909f442-46cc-4519-af22-d0b46fbc40db",
+      "source": "S07",
+      "target": "Student_7",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "c8a7f0d8-6d34-4108-8620-3a00460357c3",
+      "source": "S08",
+      "target": "Student_8",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "794651bf-0104-448a-9d84-002d784fecba",
+      "source": "S09",
+      "target": "Student_9",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "27d75557-0d89-49e2-9490-a62852b0294d",
+      "source": "S10",
+      "target": "Student_10",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "1c7b6215-4601-4a0f-b5cf-05b0e87dbb03",
+      "source": "S11",
+      "target": "Student_11",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "91034fcd-ef31-4008-af10-835e81abef15",
+      "source": "S12",
+      "target": "Student_12",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "7d513bb7-ec25-4b9c-a2e2-9c7857cc1955",
+      "source": "S13",
+      "target": "Student_13",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "cfa90ffe-79b9-4184-8b7f-dc980d885c15",
+      "source": "S14",
+      "target": "Student_14",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "1de5e94a-ebc4-4466-b2eb-68bdf568cb1f",
+      "source": "S15",
+      "target": "Student_15",
+      "relationship": "RELATED_TO"
+    }
+  ],
+  "created_at": "2025-03-14T19:50:56.035689",
+  "updated_at": "2025-03-14T19:50:56.035689"
+}

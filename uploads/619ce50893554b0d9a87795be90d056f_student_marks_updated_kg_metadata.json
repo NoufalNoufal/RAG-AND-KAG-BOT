@@ -1,0 +1,251 @@
+{
+  "graph_id": "7967358e-04b4-46b5-a236-e79a5a314af2",
+  "name": "student_marks_updated",
+  "description": null,
+  "nodes": [
+    {
+      "id": "S01",
+      "name": "S01",
+      "label": "Entity"
+    },
+    {
+      "id": "Amit Kumar",
+      "name": "Amit Kumar",
+      "label": "Entity"
+    },
+    {
+      "id": "S02",
+      "name": "S02",
+      "label": "Entity"
+    },
+    {
+      "id": "Rahul Sharma",
+      "name": "Rahul Sharma",
+      "label": "Entity"
+    },
+    {
+      "id": "S03",
+      "name": "S03",
+      "label": "Entity"
+    },
+    {
+      "id": "Neha Verma",
+      "name": "Neha Verma",
+      "label": "Entity"
+    },
+    {
+      "id": "S04",
+      "name": "S04",
+      "label": "Entity"
+    },
+    {
+      "id": "Priya Singh",
+      "name": "Priya Singh",
+      "label": "Entity"
+    },
+    {
+      "id": "S05",
+      "name": "S05",
+      "label": "Entity"
+    },
+    {
+      "id": "Vikas Yadav",
+      "name": "Vikas Yadav",
+      "label": "Entity"
+    },
+    {
+      "id": "S06",
+      "name": "S06",
+      "label": "Entity"
+    },
+    {
+      "id": "Anjali Mehta",
+      "name": "Anjali Mehta",
+      "label": "Entity"
+    },
+    {
+      "id": "S07",
+      "name": "S07",
+      "label": "Entity"
+    },
+    {
+      "id": "Rohan Das",
+      "name": "Rohan Das",
+      "label": "Entity"
+    },
+    {
+      "id": "S08",
+      "name": "S08",
+      "label": "Entity"
+    },
+    {
+      "id": "Suman Gupta",
+      "name": "Suman Gupta",
+      "label": "Entity"
+    },
+    {
+      "id": "S09",
+      "name": "S09",
+      "label": "Entity"
+    },
+    {
+      "id": "Deepak Joshi",
+      "name": "Deepak Joshi",
+      "label": "Entity"
+    },
+    {
+      "id": "S10",
+      "name": "S10",
+      "label": "Entity"
+    },
+    {
+      "id": "Kavita Reddy",
+      "name": "Kavita Reddy",
+      "label": "Entity"
+    },
+    {
+      "id": "S11",
+      "name": "S11",
+      "label": "Entity"
+    },
+    {
+      "id": "Manoj Nair",
+      "name": "Manoj Nair",
+      "label": "Entity"
+    },
+    {
+      "id": "S12",
+      "name": "S12",
+      "label": "Entity"
+    },
+    {
+      "id": "Sneha Pillai",
+      "name": "Sneha Pillai",
+      "label": "Entity"
+    },
+    {
+      "id": "S13",
+      "name": "S13",
+      "label": "Entity"
+    },
+    {
+      "id": "Arjun Malhotra",
+      "name": "Arjun Malhotra",
+      "label": "Entity"
+    },
+    {
+      "id": "S14",
+      "name": "S14",
+      "label": "Entity"
+    },
+    {
+      "id": "Pooja Iyer",
+      "name": "Pooja Iyer",
+      "label": "Entity"
+    },
+    {
+      "id": "S15",
+      "name": "S15",
+      "label": "Entity"
+    },
+    {
+      "id": "Ravi Choudhary",
+      "name": "Ravi Choudhary",
+      "label": "Entity"
+    }
+  ],
+  "edges": [
+    {
+      "id": "5ef90356-18cb-40d2-94ff-080c42558250",
+      "source": "S01",
+      "target": "Amit Kumar",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "7be1daa4-4c39-45a6-aef1-028395b0982e",
+      "source": "S02",
+      "target": "Rahul Sharma",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "eae96f24-821e-4898-b2b2-6b10eb9e9065",
+      "source": "S03",
+      "target": "Neha Verma",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "e45defa6-3c6d-49a7-9668-6da29a32053e",
+      "source": "S04",
+      "target": "Priya Singh",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "313b178d-4f1d-491a-a8c2-002b783a1431",
+      "source": "S05",
+      "target": "Vikas Yadav",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "801b9ffa-e699-40d2-a578-0b10059d0ce7",
+      "source": "S06",
+      "target": "Anjali Mehta",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "c7ffedb2-bd6a-4ab1-bb76-d381b1f30224",
+      "source": "S07",
+      "target": "Rohan Das",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "24edde81-3fd9-4d56-8caf-236de31a5034",
+      "source": "S08",
+      "target": "Suman Gupta",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "1c58d1e7-6bee-4f12-a25c-d246f53a82ca",
+      "source": "S09",
+      "target": "Deepak Joshi",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "f4ded2cc-c012-4b8a-8725-88f99de92861",
+      "source": "S10",
+      "target": "Kavita Reddy",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "901897b0-8c76-40c3-9473-9af26e8a5a60",
+      "source": "S11",
+      "target": "Manoj Nair",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "15ccb080-f878-4468-8898-ff522b562601",
+      "source": "S12",
+      "target": "Sneha Pillai",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "77aa6961-7c72-4068-9663-6b120e858bc5",
+      "source": "S13",
+      "target": "Arjun Malhotra",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "8b46f097-c7d0-4839-b7d6-38d972e95ee3",
+      "source": "S14",
+      "target": "Pooja Iyer",
+      "relationship": "RELATED_TO"
+    },
+    {
+      "id": "56830c2c-3e78-43fb-9860-5896f3ce778b",
+      "source": "S15",
+      "target": "Ravi Choudhary",
+      "relationship": "RELATED_TO"
+    }
+  ],
+  "created_at": "2025-03-14T19:30:01.651791",
+  "updated_at": "2025-03-14T19:30:01.651791"
+}

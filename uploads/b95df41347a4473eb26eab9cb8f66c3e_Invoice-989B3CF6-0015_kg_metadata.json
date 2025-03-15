@@ -1,0 +1,34 @@
+{
+  "graph_id": "788776ad-3aaf-4451-8d15-b7c4f9b5b1c0",
+  "name": "Invoice-989B3CF6-0015",
+  "description": "Knowledge graph extracted from Invoice-989B3CF6-0015.pdf",
+  "nodes": [],
+  "edges": [
+    {
+      "id": "0154d56a-dfbd-4a32-b28c-45c0d6be991b",
+      "source": "Invoice-989B3CF6-0015",
+      "target": "Unknown Organization",
+      "relationship": "ISSUED_BY"
+    },
+    {
+      "id": "cd8755e5-cff9-42c7-ad9d-77c5a5c34e09",
+      "source": "Invoice-989B3CF6-0015",
+      "target": "2025-03-15",
+      "relationship": "DATED_ON"
+    },
+    {
+      "id": "4ec4f95f-7f18-4c8e-874a-38e6de0fdb73",
+      "source": "Invoice-989B3CF6-0015",
+      "target": "Unknown Product",
+      "relationship": "INCLUDES"
+    },
+    {
+      "id": "e2aa4e19-56c5-47c2-872d-fdf67c4fdcc6",
+      "source": "Invoice-989B3CF6-0015",
+      "target": "$0.00",
+      "relationship": "HAS_AMOUNT"
+    }
+  ],
+  "created_at": "2025-03-15T11:55:32.420160",
+  "updated_at": "2025-03-15T11:55:32.420160"
+}

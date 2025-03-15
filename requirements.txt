@@ -1,0 +1,57 @@
+# FastAPI and web server
+fastapi==0.109.2
+uvicorn==0.27.1
+python-multipart==0.0.9
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# Database
+neo4j==5.14.1
+langchain-neo4j==0.1.1
+
+# LangChain and OpenAI
+langchain==0.1.11
+langchain-community==0.0.27
+langchain-openai==0.0.8
+langchain-core==0.1.27
+langchain-chroma==0.0.3
+openai==1.12.0
+
+# Vector database
+chromadb==0.4.22
+
+# Document processing
+pypdf==4.0.1
+pandas==2.1.1
+openpyxl==3.1.2
+PyMuPDF==1.23.8
+sentence-transformers==2.5.0
+google-generativeai==0.3.2
+
+# Utilities
+python-dotenv==1.0.0
+typing-extensions==4.9.0
+networkx==3.2.1
+matplotlib==3.8.2
+
+# LightRAG dependencies will be installed separately if needed
+
+accelerate
+aioboto3
+aiohttp
+
+# database packages
+graspologic
+hnswlib
+nano-vectordb
+ollama
+oracledb
+pyvis
+tenacity
+# lmdeploy[all]
+
+# LLM packages
+tiktoken
+torch
+transformers
+xxhash
