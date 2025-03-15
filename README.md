@@ -4,8 +4,8 @@
 The Multi-Modal Knowledge System API is an advanced information processing and retrieval system that integrates document processing with a Knowledge Acquisition Graph (KAG). It enables intelligent document analysis, knowledge extraction, and semantic search operations.
 
 ## code 
-Ai backend python code : branch RAG_KAG_BE
-Frontend code : branch RAG_FE
+- **Ai backend python code : branch RAG_KAG_BE
+- **Frontend code : branch RAG_FE
 
 ## Technical Stack
 - **FastAPI**: High-performance web framework for API development
