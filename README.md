@@ -7,7 +7,7 @@ RAG and KAG integrated with neo4j implemented chatbot we can upload the data and
 - Python 3.12 installed
 - Neo4j database (local or cloud instance)
 - OpenAI API key (for LLM integration)
-- Google AI API key (optional, for Gemini integration)
+
 
 ### Step 1: Clone the Repository
 ```bash
@@ -76,7 +76,7 @@ The application will be available at `http://localhost:8000`
 
 ### Common Issues
 - **Connection Error with Neo4j**: Ensure Neo4j is running and credentials are correct
-- **API Key Issues**: Verify your OpenAI/Google API keys are valid and have sufficient credits
+- **API Key Issues**: Verify your OpenAI keys are valid and have sufficient credits
 - **Memory Errors**: For large documents, you may need to increase your system's available memory
 
 ### Logs
