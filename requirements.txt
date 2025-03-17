@@ -34,24 +34,18 @@ typing-extensions==4.9.0
 networkx==3.2.1
 matplotlib==3.8.2
 
-# LightRAG dependencies will be installed separately if needed
-
-accelerate
-aioboto3
-aiohttp
-
-# database packages
-graspologic
-hnswlib
-nano-vectordb
-ollama
-oracledb
-pyvis
-tenacity
-# lmdeploy[all]
-
-# LLM packages
-tiktoken
-torch
-transformers
-xxhash
+# Additional dependencies
+accelerate==0.27.2
+aioboto3==11.3.0
+aiohttp==3.9.1
+graspologic==3.1.0
+hnswlib==0.7.0
+nano-vectordb==0.1.0
+ollama==0.1.6
+oracledb==1.4.2
+pyvis==0.3.2
+tenacity==8.2.3
+tiktoken==0.5.2
+torch==2.1.2
+transformers==4.36.2
+xxhash==3.4.1
